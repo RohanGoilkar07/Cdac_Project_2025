@@ -1,45 +1,54 @@
-# 🏠 Housing Hub – Society Coordination Web Platform
+# 🏠 Housing Hub – Society Coordination Platform
 
-**Housing Hub** is a web-based platform that simplifies and automates residential society operations. It allows:
-
-- 👤 **Residents** to manage their profiles, book amenities, and raise complaints  
-- 🛡️ **Security Staff** to log visitor entries and control access  
-- 🛠️ **Admins** to handle user records, fees, notices, and system analytics  
+A modern **web-based system** designed to streamline and automate daily operations in residential societies.
 
 ---
 
-## ⚙️ Tech Stack
-
-### 🖥 Frontend
-- [ReactJS (Vite)](https://vitejs.dev/)
-- [Tailwind CSS](https://tailwindcss.com/)
-- [React Router](https://reactrouter.com/)
-- [Axios](https://axios-http.com/)
-
-### ☁ Deployment
-- Docker (Frontend container)
-- AWS EC2 – Web hosting
+## 🚀 Overview
+**Housing Hub** enables smooth coordination between **Residents**, **Security Staff**, **Admins**, and **Super Admins** by offering tools for:
+- Profile and amenity management
+- Complaint tracking
+- Visitor entry logging
+- Maintenance fee management
+- System analytics and announcements
 
 ---
 
-## 👤 Roles and Permissions
+## 🛠 Technology Stack
 
-| Role       | Permissions                                      |
-|------------|--------------------------------------------------|
-| Resident   | Profile management, complaint handling, amenity booking |
-| Security   | Visitor logging and tracking                     |
-| Admin      | User & fee management, announcements, analytics  |
+### Frontend
+- ⚛ **ReactJS (Vite)**
+- 🎨 **Tailwind CSS**
+- 🔗 **React Router**
+- 📡 **Axios** for API communication
+
+### Deployment
+- 📦 **Docker** (Frontend containerization)
+- ☁ **Microsoft Azure** hosting
 
 ---
 
-## 📌 Key Features
+## 👥 User Roles & Permissions
 
-- 🔐 Secure JWT-based login with role-based access  
-- 🏘️ Resident Onboarding and Flat Assignment  
-- 🧾 Maintenance Fee Display and Payment Status  
-- 📅 Amenity Booking with Slot Availability  
-- 📢 Announcement Board for Notices  
-- 👮 Visitor Entry Logs and Tracking  
-- 📊 Analytics Dashboard for Admins
+| Role         | Key Actions                                                               |
+|--------------|---------------------------------------------------------------------------|
+| **Resident**   | Manage profile, raise complaints, book amenities                        |
+| **Security**   | Record and monitor visitor logs                                         |
+| **Admin**      | Manage users, fees, announcements, and analytics                        |
+| **Super Admin**| Oversee all societies, manage multiple admin accounts, system-wide settings |
+
+---
+
+## 🌟 Highlighted Features
+- 🔐 **Secure Login** with JWT & role-based access control
+- 🏘 **Resident Onboarding** with flat assignments
+- 💰 **Maintenance Fee** display with payment tracking
+- 📅 **Amenity Booking** & slot availability
+- 📢 **Announcement Board** for notices
+- 👮 **Visitor Logs** & tracking
+- 📊 **Analytics Dashboard** for administrators
+- 🌐 **Multi-Society Management** for Super Admins
+
+---
 
 ---
