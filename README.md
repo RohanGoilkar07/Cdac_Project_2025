@@ -32,7 +32,7 @@
 
 ---
 
-## 📌 Key Features
+## 📌 Key Features.
 
 - 🔐 Secure JWT-based login with role-based access  
 - 🏘️ Resident Onboarding and Flat Assignment  
