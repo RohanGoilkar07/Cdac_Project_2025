@@ -40,6 +40,6 @@
 - 📅 Amenity Booking with Slot Availability  
 - 📢 Announcement Board for Notices  
 - 👮 Visitor Entry Logs and Tracking  
-- 📊 Analytics Dashboard for Admins
+- 📊 Analytics Dashboard for Admins      
 
 ---
